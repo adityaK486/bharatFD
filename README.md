@@ -216,7 +216,3 @@ Test files are located in the `tests/` directory and cover models, controllers, 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Happy coding and thank you for contributing!
